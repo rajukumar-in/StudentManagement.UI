@@ -3,7 +3,7 @@
 This is an ASP.NET Core MVC web application created to manage student records. It demonstrates full database operations using the Entity Framework Core Code-First approach.
 
 ## Core Technologies
-- **Backend Framework:** C# and ASP.NET Core MVC (.NET 8.0 / 6.0)
+- **Backend Framework:** C# and ASP.NET Core MVC (.NET 8.0)
 - **Database ORM:** Entity Framework Core (EF Core)
 - **Database Engine:** SQL Server Database
 
